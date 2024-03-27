@@ -1,0 +1,76 @@
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly SMS.csproj.AssemblyReference.cache
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly_SMS.LogIn.resources
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly_SMS.Properties.Resources.resources
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly SMS.csproj.GenerateResource.cache
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly SMS.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Heavenly SMS.exe.config
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Heavenly SMS.exe
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Heavenly SMS.pdb
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Google.Protobuf.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\K4os.Compression.LZ4.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\K4os.Hash.xxHash.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\MySql.Data.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\NuGet.Frameworks.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Buffers.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.IO.Pipelines.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Memory.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Numerics.Vectors.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\ZstdSharp.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Google.Protobuf.pdb
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Google.Protobuf.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\K4os.Compression.LZ4.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\K4os.Hash.xxHash.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\MySql.Data.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Buffers.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.IO.Pipelines.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Memory.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Numerics.Vectors.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly SMS.csproj.CopyComplete
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly SMS.exe
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly SMS.pdb
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly_SMS.Register.resources
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.Shared.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\crystaldecisions.windows.forms.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\stdole.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\icudt.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\x64\pdfium.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\x86\pdfium.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\libpdfium.dylib
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Patagames.Pdf.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Patagames.Pdf.WinForms.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Patagames.Pdf.Wpf.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Patagames.Pdf.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Patagames.Pdf.WinForms.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Patagames.Pdf.Wpf.xml
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly SMS.exe.licenses
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\bin\Debug\Guna.UI2.dll
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly_SMS.Admins.resources
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly_SMS.Client.resources
+C:\wamp64\www\Heavenly SMS\Heavenly SMS\obj\Debug\Heavenly_SMS.Stuff1.resources
